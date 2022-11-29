@@ -1,7 +1,7 @@
 ---
 author: Milan tavernier
 datetime: 2022-11-29T10:52:00Z
-title: my-village
+title: My Village
 slug: my-village
 featured: true
 draft: false

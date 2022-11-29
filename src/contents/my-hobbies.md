@@ -1,13 +1,13 @@
 ---
 author: Milan tavernier
 datetime: 2022-11-29T11:52:00Z
-title: my-hobbies
+title: My Hobbies
 slug: my-hobbies
 featured: true
 draft: false
 tags:
   - docs
-  - cat
+  - hobbies
 ogImage: ""
 description: This is about my hobbies, what I do after school
 ---

@@ -1,7 +1,7 @@
 ---
 author: Milan tavernier
 datetime: 2022-11-29T09:52:00Z
-title: my-cat
+title: My Cat
 slug: my-cat
 featured: true
 draft: false
