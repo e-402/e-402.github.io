@@ -1,5 +1,5 @@
 /*
-.jpeg
+
 # Except these files & folders
 !/src
 !/public
@@ -9,3 +9,4 @@
 !package.json
 !.prettierrc
 !.eslintrc.json
+.jpeg
