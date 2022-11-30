@@ -10,6 +10,7 @@
 !package.json
 !.prettierrc
 !.eslintrc.json
+!.jpeg
 
 import { defineConfig } from 'astro/config'
 
