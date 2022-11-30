@@ -1,6 +1,5 @@
-# Ignore everything
 /*
-
+.jpeg
 # Except these files & folders
 !/src
 !/public
@@ -10,11 +9,3 @@
 !package.json
 !.prettierrc
 !.eslintrc.json
-!.jpeg
-
-import { defineConfig } from 'astro/config'
-
-export default defineConfig({
-  site: 'https://astronaut.github.io',
-  base: '/my-repo',
-})
