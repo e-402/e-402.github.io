@@ -1,19 +1,11 @@
-# Ignore everything
 /*
 
 # Except these files & folders
 !/src
-!/public
+#!/public
 !/.github
 !tsconfig.json
 !astro.config.mjs
 !package.json
 !.prettierrc
 !.eslintrc.json
-
-import { defineConfig } from 'astro/config'
-
-export default defineConfig({
-  site: 'https://astronaut.github.io',
-  base: '/my-repo',
-})
