@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hello ! My name is milan, learn more about me on his page:
+Hello ! My name is Milan, learn more about me on his page:
 
 - I am born in the city of Agen on 28 November 2008. Until I was 2 years old, I lived in a small village in the south of France, called Puymirol.
 
