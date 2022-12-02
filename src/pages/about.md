@@ -3,10 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Milan is a very interesting person, learn more about him on his website:
+Hello ! My name is milan, learn more about me on his page:
 
--Milan was born in the city of Agen on 28 November 2008, he has since then 14 for the moment.
+-I am born in the city of Agen on 28 November 2008. Until I was 2 years old, I lived in a small village in the south of France, called Puymirol.
 
--He moved at 2 years old. He moved from a small village in the south of France to another village very close to Switzerland called Collonges where he still lives.
+-After my second birthday, I moved. And left Puymirol for another village very close to Swiss, Collonges, where I still live.
 
-And now you can browse the site to find out more about Milan's life
+And now you can browse the site to find out more about some aspects of my life.
