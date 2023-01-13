@@ -6,6 +6,8 @@ import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
+
+// https://astro.build/config
 export default defineConfig({
   site: "https://e-402.github.io",
   integrations: [
