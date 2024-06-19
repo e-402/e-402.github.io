@@ -9,15 +9,6 @@ import Now from "../components/Now.astro";
 import Globe from "../components/Globe";
 ---
 
----
-import fetchApi from '../lib/strapi.ts';
-import type Article from '../interfaces/article';
-
-const articles = await fetchApi<Article[]>({
-  endpoint: 'articles', // the content type to fetch
-  wrappedByKey: 'data', // the key to unwrap the response
-});
----
 
 <script>
   import { stagger, spring, timeline, type TimelineDefinition } from "motion";
