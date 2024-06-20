@@ -5,6 +5,9 @@ const blog = defineCollection({
   schema: rssSchema,
 });
 
+export const collections = { blog };
+
+
 const blogCollection = defineCollection({
   type: 'content', // v2.5.0 and later
   schema: z.object({
@@ -13,9 +16,5 @@ const blogCollection = defineCollection({
     image: z.string().optional(),
   }),
 });
-
-export const collections = {
-  'blog': blogCollection,
-};
 
 
