@@ -1,18 +1,13 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World"
-description: "this is a post example"
-pubDate: 2023-01-21
+title: "Coding-newsletter"
+description: "Day 4 of my internship"
+pubDate: 06/20/2024
 category: "intro"
 ---
 
-# Hi there!
+# Plan for today:
+- Working on content collection
+- Internationalization
 
-This Markdown file creates a page at `your-domain.com/post1/`
-
-It probably isn't styled much, but Markdown does support:
-
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+I don't know if I will write many times in this blog, but it's always fun to leave something !
