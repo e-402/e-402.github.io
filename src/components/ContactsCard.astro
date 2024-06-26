@@ -1,6 +1,8 @@
 ---
 import Card from "./Card/index.astro";
 import { LINKS } from "../lib/constants";
+import { Image } from 'astro:assets';
+import treeTheme from '../components/treeTheme.jpg';
 ---
 
 <Card colSpan="md:col-span-1" rowSpan="md:row-span-4">
@@ -15,7 +17,7 @@ import { LINKS } from "../lib/constants";
       <ul>
         <li>
           <a href={LINKS.game} target="_blank">Puzzle game</a>
-          <img src="../components/treeTheme.jpg" width="150" height="500" />
+          <Image src={treeTheme} alt="the backround of the game" />
         </li>
       </ul>
     </div>
