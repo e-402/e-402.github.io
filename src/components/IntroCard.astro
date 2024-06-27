@@ -31,12 +31,26 @@ import { Image } from "astro:assets";
         </Tooltip>
       </div>
     </div>
+    .card {
+      position: absolute;
+      width: 200px;
+      height: 100px;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border-radius: 25px;
+      background: url(https://picsum.photos/id/116/1920);
+      background-color: black;
+      background-position: right -200px bottom -250px;
+      background-size: 600px;
+      background-repeat: repeat;
+      }
     <Image
       width="300"
       height="300"
       src="/me.webp"
       class="w-auto max-h-[300px] select-none absolute right-[-110px] bottom-[-20px] z-[-1] opacity-50 md:opacity-100 md:relative md:right-auto md:bottom-auto md:z-auto pointer-events-none"
-      alt="memoji of gianmarco"
+      alt="memoji of Milan"
     />
   </div>
 </Card>
