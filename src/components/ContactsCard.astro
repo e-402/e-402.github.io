@@ -1,21 +1,22 @@
 ---
 import Card from "./Card/index.astro";
 import { LINKS } from "../lib/constants";
+import { Image } from 'astro:assets';
+import treeTheme from '../components/treeTheme.jpg';
 ---
 
 <Card colSpan="md:col-span-1" rowSpan="md:row-span-4">
   <div class="h-full">
     <header class="flex items-center">
       <h1 class="text-white text-xl font-bold">
-        You should try this simple game !
+        Game available in this website:
       </h1>
     </header>
     <div class="flex flex-col mt-4 w-fit">
-      <h2 class="text-gray-500">Click to play game</h2>
       <ul>
         <li>
-          <a href={LINKS.game} target="_blank">Puzzle game</a>
-          <img src="/src/components/treeTheme.jpg" width="500" height="500" />
+          <a href={LINKS.game} target="_blank">Click me !</a>
+          <Image src={treeTheme} alt="the backround of the game" />
         </li>
       </ul>
     </div>
