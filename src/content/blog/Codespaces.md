@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Coding-newsletter"
+title: "Talking about GitHub codespaces"
 description: "Talking about GitHub codespaces"
 pubDate: 06/27/2024
 category: "intro"
