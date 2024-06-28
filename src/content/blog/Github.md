@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Talking about GitHub"
-description: "GitHub, Houdini in a website"
+title: "GitHub, or Houdini in a website"
+description: "Talking about GitHub"
 pubDate: 06/28/2024
 category: "intro"
 ---

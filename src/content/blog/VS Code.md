@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Talking about VS Code"
+title: "VS Code, the swiss knife of developers"
 description: "Talking about VS Code"
 pubDate: 06/27/2024
 category: "intro"
