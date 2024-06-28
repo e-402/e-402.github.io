@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Talking about GitHub codespaces"
+title: "GitHub codespaces, a magic computer !"
 description: "Talking about GitHub codespaces"
 pubDate: 06/27/2024
 category: "intro"
@@ -8,8 +8,12 @@ category: "intro"
 
 # What are codespaces ?
 
-Well, codespaces are like a virtual computer located in the cloud, that you can use for example, if you want a Linux computer but you don't have one
+GitHub Codespaces are computers hosted in the cloud. Imagine having your entire development setup—tools, extensions, and configurations—available instantly, without any local installation.
 
-## Why Github ?
+## Why is it important ?
 
-Simply because it's a free service provided directly by Github, and it's very useful !
+- **Instant Onboarding**: When you join a project, you don't need to spend hours setting up your development environment. Just open a repository on GitHub, and Codespaces launches instantly with pre-configured settings. It's like stepping into a ready-to-go workspace.
+
+- **Device Agnostic**: Whether you're on a powerful desktop or coding from an iPad. From a Linux installation or something else, Codespaces work remotly. Since they live in the cloud, you can code from any device with any installation only requiring an access to internet.
+
+Sources: https://docs.github.com/en/codespaces/overview ; https://docs.github.com/en/codespaces/getting-started/deep-dive ; https://docs.github.com/en/codespaces

@@ -16,3 +16,5 @@ category: "intro"
 
 - First of all, VS Code is a great editor, perfect for coding like I do.
 - It has a lot of features and add-ons, like **github pull request** that I use for my Makefest projects
+
+Source: https://code.visualstudio.com/Docs/editor/whyvscode

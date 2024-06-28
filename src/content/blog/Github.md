@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
 title: "Talking about GitHub"
-description: "Talking about GitHub"
+description: "GitHub, Houdini in a website"
 pubDate: 06/28/2024
 category: "intro"
 ---
@@ -20,4 +20,6 @@ category: "intro"
 
 ## How **we** use Github
 
-In the makefest organization, Markus has created special lessons for us, accessible on Github ! But it's on a private repository, so you have to joins our courses 😄
+In the [MakeFest organization](https://makefe.st/), Markus has created special lessons for us, accessible on Github ! But it's on a private repository, so you have to joins our courses 😄
+
+Sources: https://github.com/ ; https://docs.github.com/en
